@@ -14,3 +14,4 @@ This is a simple web application that lets users check the current weather in an
 - **Backend**: Python, Flask
 - **API**: OpenWeatherMap (free weather data)
 - **Frontend**: HTML (with Flask template engine)
+replace "YOUR_API_KEY" with your actual key(Go to https://openweathermap.org/, sign up, and get a free API key. )
